@@ -1,0 +1,25 @@
+## PTES Report Summary
+
+### 1.Executive Summary 
+ 
+A full penetration test was performed on the target system. A critical remote code execution vulnerability was discovered and successfully exploited. Remediation recommendations were provided to strengthen system security.
+ 
+
+### 2.Attack Timeline
+
+ Reconnaissance using Nmap  
+ Vulnerability scanning via OpenVAS  
+ Exploitation using Metasploit  
+ Validation of access  
+
+
+### 3. Remediation Plan 
+Apply patches  
+Harden configurations  
+Conduct regular security scans  
+
+
+### 4. Non-Technical Summary
+The assessment identified a critical vulnerability in an outdated FTP service, allowing unauthorized access. Applying patches, restricting permissions, and performing regular scans will mitigate risks and improve overall system security posture.
+
+
